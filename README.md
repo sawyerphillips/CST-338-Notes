@@ -10,7 +10,6 @@ This repository contains my notes and study materials for CST 338.
 Each week's notes include:
 - Notes from the lecture videos
 - Notes from the lecture slides
-- Two AI-generated study quizzes
 
 ## Purpose
 
